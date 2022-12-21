@@ -1,7 +1,5 @@
 import React from 'react';
 
-function App() {
+function SquareOrCircle() {}
 
-}
-
-export default App;
+export default SquareOrCircle;
