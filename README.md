@@ -1,3 +1,5 @@
+Task performed during Front-End Developer Bootcamp
+
 (Conditional Rendering)
 Stwórz komponent SquareOrCircle, który w zależności od potrzeby będzie:
 
